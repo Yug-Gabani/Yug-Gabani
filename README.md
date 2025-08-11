@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm YUG GABANI</h1>
 <h3 align="center">A passionate Competitive Programmer from India.</h3>
 
-- 🌱 I’m currently learning **web development and DSA**
+- 🌱 I’m currently learning **DSA and web development**
 
 <p align="left">
 <a href="https://www.codechef.com/users/yug_gabani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yug_gabani" height="30" width="40" /></a>
